@@ -1,2 +1,2 @@
-# OptimalEstimation
-Matlab Codes for Optimal Estimation of Dynamical Systems
+# Least Squares Methods
+Matlab Codes for various Least Squares Methods
